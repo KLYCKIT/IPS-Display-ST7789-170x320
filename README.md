@@ -1,6 +1,6 @@
 # IPS Display ST7789 1.9" 170x320
 
-Aliexpress Display ~3,50€, tested with a ESP32 Wemos lite, Arduino IDE 2.3.2 and TFT_eSPI 2.5.43.
+Tested with a ESP32 Wemos lite, Arduino IDE 2.3.2 and TFT_eSPI 2.5.43.
 
 Arduino IDE Board : "WEMOS LOLIN32 Lite"
 
